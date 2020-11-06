@@ -1,7 +1,6 @@
 #Gak Ada Author
 #Silahkan Tambahkan Koder Jika Kalian Ingin Jadi Progremer
 #!/bin/bash
-clear
 biru='\033[34;1m' 
 ungu='\033[35;1m' 
 cyan='\033[0;36m'
