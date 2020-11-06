@@ -12,5 +12,7 @@ bash wpins.sh
 
 
 JIKA BERHASIL MAKA 
+
 USERNAME: Bayy
+
 PASSWORD: Youu
