@@ -1,12 +1,12 @@
 #Gak Ada Author
 #Silahkan Tambahkan Koder Jika Kalian Ingin Jadi Progremer
 #!/bin/bash
+clear
 biru='\033[34;1m' 
 ungu='\033[35;1m' 
 cyan='\033[0;36m'
 green='\e[92m'
 red='\033[0;31m'
-clear
 gass(){
        if [[ $(curl -s -H "User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.89 Safari/537.36" $site/wp-admin/install.php | grep -o 'English (United States)') =~ 'English (United States)' ]];
       then 
